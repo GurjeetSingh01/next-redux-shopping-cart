@@ -9,7 +9,7 @@ See and use live [here](https://next-redux-shopping-cart-gurjeetsingh01.vercel.a
 
 ![Screenshot from 2022-05-08 19-42-44](https://user-images.githubusercontent.com/77770628/167300432-262a311f-76ad-4edf-b32c-6f2a6cf62373.png)
 
-- Mandatory theming XD
+- Mandatory theming 
 
 ![Screenshot from 2022-05-08 19-42-37](https://user-images.githubusercontent.com/77770628/167300429-ac4ddfaf-9456-4d40-b5d0-a32ea25923dd.png)
 
