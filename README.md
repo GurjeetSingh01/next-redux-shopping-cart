@@ -1,7 +1,7 @@
 Shopping cart using [Next JS](https://nextjs.org/) and [Redux Toolkit](https://redux-toolkit.js.org/).
 Styled with [Chakra UI](https://chakra-ui.com/).
 
-See and use live [here](https://next-redux-shopping-cart-88v3d95c3-gurjeetsingh01.vercel.app/)
+See and use live [here](https://next-redux-shopping-cart-gurjeetsingh01.vercel.app/)
 
 ### Sneak Peak:
 
