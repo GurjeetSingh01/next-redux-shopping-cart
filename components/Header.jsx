@@ -135,7 +135,7 @@ export const Header = () => {
             />
             <IconButton
               as="a"
-              href="https://github.com/abhijhacodes/next-redux-shopping-cart"
+              href="https://github.com/GurjeetSingh01/next-redux-shopping-cart"
               aria-label="GitHub"
               icon={<FaGithub fontSize="1.8rem" />}
             />
