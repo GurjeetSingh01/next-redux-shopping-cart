@@ -1,1 +1,1 @@
-# -ext-redux-shopping-cart
+# next-redux-shopping-cart
